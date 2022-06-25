@@ -9,7 +9,7 @@
   "author": "Marc Orel",
   "license": "MIT",
   "dependencies": {
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "public-ip": "^4.0.0"
   }
 }
